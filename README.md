@@ -1,1 +1,1 @@
-"# SE4040-EAD" 
+# SE4040 - Enterprise Application Development
